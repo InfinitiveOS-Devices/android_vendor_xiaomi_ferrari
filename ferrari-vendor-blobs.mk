@@ -523,5 +523,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
-    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so
-
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/mmi_flashlight.so:system/vendor/lib/mmi_flashlight.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/mmi_flashlight.so:system/vendor/lib64/mmi_flashlight.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib/mmi_keypadbacklight.so:system/vendor/lib/mmi_keypadbacklight.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/mmi_keypadbacklight.so:system/vendor/lib64/mmi_keypadbacklight.so \
