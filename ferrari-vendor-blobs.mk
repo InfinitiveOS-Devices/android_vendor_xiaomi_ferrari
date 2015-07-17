@@ -528,8 +528,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/mmi_flashlight.so:system/vendor/lib64/mmi_flashlight.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/mmi_keypadbacklight.so:system/vendor/lib/mmi_keypadbacklight.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/mmi_keypadbacklight.so:system/vendor/lib64/mmi_keypadbacklight.so \
-    vendor/xiaomi/ferrari/proprietary/lib/libminui.so:system/vendor/lib/libminui.so \
-    vendor/xiaomi/ferrari/proprietary/lib64/libminui.so:system/vendor/lib64/libminui.so \
+    vendor/xiaomi/ferrari/proprietary/lib/libminui.so:system/lib/libminui.so \
+    vendor/xiaomi/ferrari/proprietary/lib64/libminui.so:system/lib64/libminui.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/libmmi.so:system/vendor/lib/libmmi.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libmmi.so:system/vendor/lib64/libmmi.so \
     vendor/xiaomi/ferrari/proprietary/bin/fmconfig:system/bin/fmconfig \
