@@ -585,4 +585,12 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/mmi_volume.so:system/vendor/lib/mmi_volume.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/mmi_volume.so:system/vendor/lib64/mmi_volume.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/mmi_wifi.so:system/vendor/lib/mmi_wifi.so \
-    vendor/xiaomi/ferrari/proprietary/vendor/lib64/mmi_wifi.so:system/vendor/lib64/mmi_wifi.so
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/mmi_wifi.so:system/vendor/lib64/mmi_wifi.so \
+    vendor/xiaomi/ferrari/proprietary/bin/halsensors:system/bin/halsensors \
+    vendor/xiaomi/ferrari/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
+    vendor/xiaomi/ferrari/proprietary/lib64/libsensorservice.so:system/lib64/libsensorservice.so \
+    vendor/xiaomi/ferrari/proprietary/lib64/hw/sensors.lsm6db0.so:system/lib64/hw/sensors.lsm6db0.so \
+    vendor/xiaomi/ferrari/proprietary/lib/hw/sensors.lsm6db0.so:system/lib/hw/sensors.lsm6db0.so \
+    vendor/xiaomi/ferrari/proprietary/bin/sensor_select.sh:system/bin/sensor_select.sh\
+    vendor/xiaomi/ferrari/proprietary/bin/sensorservice:system/bin/sensorservice \
+    vendor/xiaomi/ferrari/proprietary/bin/test-nusensors:system/bin/test-nusensors
